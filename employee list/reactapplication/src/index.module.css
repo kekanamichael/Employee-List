@@ -1,0 +1,70 @@
+body{
+    background-color: #C4C4C4;
+}
+
+.wel{
+    background-image: url('bck.jpg');
+    background-repeat: no-repeat;
+    margin-left: 95px;
+    margin-top: 40px;
+    background-size: 100% 100%;
+    width: 60%;
+    height: 800px;
+  
+    color: aliceblue;
+    text-align: center;
+}
+.form{
+    float: right;
+    width: 30%;
+    margin-right: 95px;
+    background-color: #ffffff;
+    height: 800px;
+    position: relative; bottom: 800px;
+    
+}
+.form p{
+    font-size: 20px;
+}
+p a{
+    text-decoration: none;
+    color: #4F9BC6;
+}
+.input{
+    margin: 15px;
+    padding: 15px;
+    width: 300px;
+    border: none;
+    background-color: #4BA4E5;
+    color: white;
+}
+::placeholder{
+    color: white;
+    font-size: 20px;
+}
+.button{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #003665;
+    width: 30%;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.button:hover{
+    background-color: #12557c;
+}
+h1, h2{
+    font-size: 50px;
+}
+.img{
+    margin: 20px;
+    position: relative; top: 350px; right: 300px;
+    width: 40px;
+    height: 40px;
+}
+/* #img{
+    position: absolute; 
+    
+} */

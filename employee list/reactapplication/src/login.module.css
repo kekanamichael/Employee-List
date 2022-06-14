@@ -1,0 +1,76 @@
+.body{
+    background-color: rgb(180, 182, 182);
+    margin: 0%;
+}
+.login{
+    background-color:white;
+    width: 60%;
+    height: 800px;
+    margin-top: 40px;
+    margin-left: 55px;
+}
+.header1{
+    background-color: white;
+    color: black;
+}
+.sign{
+    background-color: #003665;
+    width: 34.8%;
+    position: relative; bottom: 810px;
+    float: right;
+    height: 800px;
+    margin-top: 10px;
+    margin-right: 40px;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+.button1{
+    background-color: White;
+    color: black;
+    border-radius: 20px;
+    width: 50%;
+    text-decoration: none;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.button1:hover{
+    background-color: #003665;
+    color: white;
+    pointer-events: visibleStroke;
+}
+.img{
+    width: 30px;
+    height: 30px;
+    margin: 35px;
+}
+input{
+    margin: 25px;
+    padding: 15px;
+    width: 50%;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(55, 127, 205);
+}
+::placeholder{
+    color: white;
+    
+}
+button{
+    background-color: #003665;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 25%;
+    padding: 15px;
+    font-size: 20px;
+    margin: 15px;
+}
+/* #mail{
+    position: relative; bottom: 310px; right: 22px;
+    width: 20px;
+} */

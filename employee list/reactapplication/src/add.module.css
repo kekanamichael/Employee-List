@@ -1,0 +1,38 @@
+.body{
+    background-image: url('bck.jpg');
+    margin: 0%;
+}
+.wrapper{
+    background-color: White;
+    width: 50%;
+    
+
+}
+.input{
+    margin: 20px;
+    padding: 15px;
+   color: Black;
+    border: none;
+    background-color: #C0DFF1;
+    font: 20px;
+    width: 500px;
+    font-weight: bolder;
+}
+.btn{
+    width: 250px;
+    border-radius: 20px;
+    padding: 15px;
+    color: White;
+    border: none;
+    background-color: #003665;
+    margin: 20px;
+    font-size: 24px;
+}
+.btn:hover{
+    background-color: #245681;
+}
+.label{
+   float: left;
+   margin-left: 215px;
+    margin-bottom: 0%;
+}
